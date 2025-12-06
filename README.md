@@ -2,9 +2,9 @@
 
 Este projeto de Ciência de Dados investiga o ciclo de vida dos planos de saúde no Brasil, utilizando dados da ANS (Agência Nacional de Saúde Suplementar). O objetivo é identificar padrões que levam à inatividade dos planos e desenvolver um modelo preditivo para estimar o risco de cancelamento.
 
-**Disciplina:** Ciência de Dados: Análise de Dados Aplicada (UTFPR)  
-**Prof.:** Dr. Eduardo Pena  
-**Autores:** Thiago Ramos Velozo, Christopher Eduardo Zai  
+**Disciplina:** Ciência de Dados: Análise de Dados Aplicada (UTFPR)
+**Prof.:** Dr. Eduardo Pena
+**Autores:** Thiago Ramos Velozo, Christopher Eduardo Zai
 
 ---
 
